@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xavi
-- 👀 I’m interested in game and web development
-- 🌱 I’m currently learning new techniques un Unity
-- 💞️ I’m looking to collaborate on videogames
+- 👀 I’m interested in backend development
+- 🌱 I’m currently at uni studying to be a software engineer
+- 💞️ I’m looking to collaborate on dev tools
 - 📫 How to reach me: javi.delescoval@gmail.com or http://wa.me/56996144961
